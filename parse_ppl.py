@@ -31,6 +31,8 @@ with open('original/tw_populatedplaces_p.txt', 'r') as ppl_input:
             entry["name:en"] = row["FULL_NAME_ND_RO"]
 
     print "Done, writing data to CSVs..."
+    count = 0
+    count_nonzh = 0
     fieldnames = ["lat", "lon", "place", "name", "name:en", "GNS:id", "GNS:dsg_code", "GNS:dsg_string", "source"]
     if not os.path.exists("ppl"):
         os.makedirs("ppl")
@@ -40,4 +42,7 @@ with open('original/tw_populatedplaces_p.txt', 'r') as ppl_input:
             writer.writeheader()
             for entry in result.itervalues():
                 writer.writerow(entry)
-    print "OK!"
+                count = count + 1
+                if not entry["name"]:
+                    count_nonzh = count_nonzh + 1
+    print "OK! %d places, %d has no Chinese name"%(count, count_nonzh)
