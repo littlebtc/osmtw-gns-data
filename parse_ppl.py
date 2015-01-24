@@ -43,6 +43,13 @@ with open('original/tw_populatedplaces_p.txt', 'r') as ppl_input:
             for entry in result.itervalues():
                 writer.writerow(entry)
                 count = count + 1
-                if not entry["name"]:
+        with open('ppl/nonzh-adm-%s.csv'%adm, "w") as output:
+            writer = unicodecsv.DictWriter(output, fieldnames = fieldnames)
+            writer.writeheader()
+            for entry in result.itervalues():
+                if entry["name"]:
+                    continue
+                else:
+                    writer.writerow(entry)
                     count_nonzh = count_nonzh + 1
     print "OK! %d places, %d has no Chinese name"%(count, count_nonzh)
