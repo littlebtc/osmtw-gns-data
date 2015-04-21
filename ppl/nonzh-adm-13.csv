@@ -1,11 +1,11 @@
 lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
-24.45,118.416667,village,,Changle,-2627058,PPL,populated place,GNS
-24.45,118.333333,village,,Zhenxi,-2627242,PPL,populated place,GNS
-24.468056,118.295278,village,,Wushazui,6261228,PPL,populated place,GNS
-24.496667,118.394167,village,,Dajiao,-2637607,PPL,populated place,GNS
-24.45,118.416667,village,,Wuyangtai,-2640591,PPL,populated place,GNS
-24.45,118.416667,village,,Wucun,-2640561,PPL,populated place,GNS
-24.45,118.433333,village,,Shangzhuang,-2636385,PPL,populated place,GNS
-24.466667,118.416667,village,,Pingdong,-2635732,PPL,populated place,GNS
-24.395833,118.309167,village,,Guta,-2632809,PPL,populated place,GNS
-24.415278,118.3,village,,Xiancuo,-2630883,PPL,populated place,GNS
+24.45,118.416667,halmet,,Changle,-2627058,PPL,populated place,GNS
+24.45,118.333333,halmet,,Zhenxi,-2627242,PPL,populated place,GNS
+24.468056,118.295278,halmet,,Wushazui,6261228,PPL,populated place,GNS
+24.496667,118.394167,halmet,,Dajiao,-2637607,PPL,populated place,GNS
+24.45,118.416667,halmet,,Wuyangtai,-2640591,PPL,populated place,GNS
+24.45,118.416667,halmet,,Wucun,-2640561,PPL,populated place,GNS
+24.45,118.433333,halmet,,Shangzhuang,-2636385,PPL,populated place,GNS
+24.466667,118.416667,halmet,,Pingdong,-2635732,PPL,populated place,GNS
+24.395833,118.309167,halmet,,Guta,-2632809,PPL,populated place,GNS
+24.415278,118.3,halmet,,Xiancuo,-2630883,PPL,populated place,GNS
