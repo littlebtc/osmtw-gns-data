@@ -17,7 +17,7 @@ with open('original/tw_populatedplaces_p.txt', 'r') as ppl_input:
             # Input basic data if not duplicated.
             entry["lat"] = row["LAT"]
             entry["lon"] = row["LONG"]
-            entry["place"] = "halmet"
+            entry["place"] = "hamlet"
             entry["name"] = ""
             entry["name:en"] = ""
             entry["GNS:id"] = row["UFI"]
