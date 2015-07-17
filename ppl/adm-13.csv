@@ -5,14 +5,11 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 24.457778,118.383333,hamlet,中蘭,Zhonglan,-2628869,PPL,populated place,GNS
 24.423889,118.330833,hamlet,下后垵,Xiahou'an,-2630354,PPL,populated place,GNS
 24.413721,118.225383,hamlet,青岐,Qingqi,-2627991,PPL,populated place,GNS
-24.45,118.416667,hamlet,,Changle,-2627058,PPL,populated place,GNS
 24.485278,118.401944,hamlet,長褔里,Changfuli,-2627032,PPL,populated place,GNS
 24.429011,118.236315,hamlet,前埔,Qianbu,-2627696,PPL,populated place,GNS
 24.439221,118.24951,hamlet,庵頂,Anding,-2626933,PPL,populated place,GNS
 24.441385,118.249522,hamlet,庵下,Anxia,-2626899,PPL,populated place,GNS
 24.520847,118.421288,hamlet,青嶼,Qingyu,-2628129,PPL,populated place,GNS
-24.45,118.333333,hamlet,,Zhenxi,-2627242,PPL,populated place,GNS
-24.468056,118.295278,hamlet,,Wushazui,6261228,PPL,populated place,GNS
 24.412205,118.212381,hamlet,烏嘴尾,Wuzuiwei,6261229,PPL,populated place,GNS
 24.418826,118.232077,hamlet,楊厝,Yangcuo,6261231,PPL,populated place,GNS
 24.490527,118.396207,hamlet,營山,Yingshan,6261232,PPL,populated place,GNS
@@ -24,10 +21,7 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 24.472671,118.417904,hamlet,蔡厝,Caicuo,-2639297,PPL,populated place,GNS
 24.486095,118.42066,hamlet,蔡店,Caidian,-2639295,PPL,populated place,GNS
 24.473992,118.402674,hamlet,头門,Toumen,-2639231,PPL,populated place,GNS
-24.496667,118.394167,hamlet,,Dajiao,-2637607,PPL,populated place,GNS
 24.47928,118.428,hamlet,陽宅,Yangzhai,-2640609,PPL,populated place,GNS
-24.45,118.416667,hamlet,,Wuyangtai,-2640591,PPL,populated place,GNS
-24.45,118.416667,hamlet,,Wucun,-2640561,PPL,populated place,GNS
 24.479984,118.439739,hamlet,東店,Dongdian,-2639803,PPL,populated place,GNS
 24.516017,118.414068,hamlet,塘頭,Tangtou,-2638207,PPL,populated place,GNS
 24.446667,118.448056,hamlet,東沙尾,Dongshawei,-2639752,PPL,populated place,GNS
@@ -42,7 +36,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 24.46,118.450833,hamlet,東溪,Dongxi,-2639603,PPL,populated place,GNS
 24.47815,118.462626,hamlet,田埔,Tianbu,-2638849,PPL,populated place,GNS
 24.421667,118.328056,hamlet,上后垵,Shanghou'an,-2636400,PPL,populated place,GNS
-24.45,118.433333,hamlet,,Shangzhuang,-2636385,PPL,populated place,GNS
 24.491706,118.412922,hamlet,沙美,Shamei,-2636331,PPL,populated place,GNS
 24.410832,118.218906,hamlet,砂溪,Shaxi,-2636298,PPL,populated place,GNS
 24.447383,118.24756,hamlet,埔頭,Butou,-2635942,PPL,populated place,GNS
@@ -53,7 +46,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 24.439945,118.231068,hamlet,雙口,Shuangkou,-2637153,PPL,populated place,GNS
 24.427584,118.230456,hamlet,上林,Shanglin,-2636426,PPL,populated place,GNS
 24.422655,118.230151,hamlet,上庫,Shangku,-2636413,PPL,populated place,GNS
-24.466667,118.416667,hamlet,,Pingdong,-2635732,PPL,populated place,GNS
 24.482374,118.388267,hamlet,劉澳,Liu'ao,-2633427,PPL,populated place,GNS
 24.519504,118.413037,hamlet,官澳,Guan'ao,-2632596,PPL,populated place,GNS
 24.446516,118.251557,hamlet,林邊,Linbian,-2633344,PPL,populated place,GNS
@@ -62,14 +54,12 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 24.485583,118.429195,hamlet,西吳,Xiwu,-2631622,PPL,populated place,GNS
 24.485681,118.390854,hamlet,呂厝,Lucuo,-2633905,PPL,populated place,GNS
 24.406137,118.225576,hamlet,南山頭,Nanshantou,-2634573,PPL,populated place,GNS
-24.395833,118.309167,hamlet,,Guta,-2632809,PPL,populated place,GNS
 24.451111,118.446111,hamlet,新前墩,Xinqiandun,-2631028,PPL,populated place,GNS
 24.524481,118.425004,hamlet,后嶼坡,Houyupo,-2630276,PPL,populated place,GNS
 24.482178,118.415411,hamlet,後水頭,Houshuitou,-2630228,PPL,populated place,GNS
 24.486729,118.413414,hamlet,後埔頭,Houbutou,-2630217,PPL,populated place,GNS
 24.493036,118.452139,hamlet,后扁,Houbian,-2630196,PPL,populated place,GNS
 24.433811,118.238811,hamlet,西方,Xifang,-2630890,PPL,populated place,GNS
-24.415278,118.3,hamlet,,Xiancuo,-2630883,PPL,populated place,GNS
 24.482178,118.394456,hamlet,后宅,Houzhai,-2630082,PPL,populated place,GNS
 24.439762,118.246098,hamlet,后宅,Houzhai,-2630081,PPL,populated place,GNS
 24.473468,118.398778,hamlet,何厝,Hecuo,-2630072,PPL,populated place,GNS

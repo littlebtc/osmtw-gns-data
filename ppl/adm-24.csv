@@ -1,5 +1,4 @@
 lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
-22.683333,121.5,hamlet,,Liumagou,-2633499,PPL,populated place,GNS
 22.671111,121.506667,hamlet,觀音洞,Guanyindong,-2632729,PPL,populated place,GNS
 22.656944,121.500556,hamlet,海參坪,Haishenping,-2629886,PPL,populated place,GNS
 22.674167,121.471944,hamlet,中寮,Zhongliao,-2628874,PPL,populated place,GNS
@@ -18,9 +17,7 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.322222,120.891111,hamlet,圓山,Yuanshan,-2640815,PPL,populated place,GNS
 22.336111,120.881111,hamlet,大湖,Dahu,-2637778,PPL,populated place,GNS
 23.380501,121.471517,hamlet,大俱來,Dajulai,-2637701,PPL,populated place,GNS
-22.45,120.933333,hamlet,,Dazhugaoshan,-2637698,PPL,populated place,GNS
 22.443611,120.938611,hamlet,大竹,Dazhu,-2637671,PPL,populated place,GNS
-23.223867,121.414474,hamlet,,Danman,-2638231,PPL,populated place,GNS
 22.384722,120.91,hamlet,大鳥,Daniao,-2638215,PPL,populated place,GNS
 22.968056,121.303611,hamlet,東河,Donghe,-2639591,PPL,populated place,GNS
 22.294167,120.885833,hamlet,達仁,Daren,-2637964,PPL,populated place,GNS
@@ -94,14 +91,10 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.179264,121.397566,hamlet,男人石,Nanrenshi,10027321,PPL,populated place,GNS
 23.169476,121.403403,hamlet,玉水橋,Yushuiqiao,10027356,PPL,populated place,GNS
 22.666111,121.508889,hamlet,柚子湖,Youzihu,-2641081,PPL,populated place,GNS
-22.666667,121.466667,hamlet,,Yugang,-2640933,PPL,populated place,GNS
-22.35,121.366667,hamlet,,Shanfucun,-2636372,PPL,populated place,GNS
 22.635278,121.503889,hamlet,白沙尾,Baishawei,-2635098,PPL,populated place,GNS
-22.683333,121.45,hamlet,,Bitoujiao,-2635784,PPL,populated place,GNS
 22.666667,121.470833,hamlet,南寮,Nanliao,-2633892,PPL,populated place,GNS
 22.675,121.491111,hamlet,公館,Gongguan,-2632870,PPL,populated place,GNS
 22.67486,121.507931,hamlet,楠仔湖,Nanzihu,-2633105,PPL,populated place,GNS
-22.666668,121.485114,hamlet,,Baigang,-2635038,PPL,populated place,GNS
 22.597551,121.000497,hamlet,溪底,Xidi,6433387,PPL,populated place,GNS
 22.650157,121.019861,hamlet,南坑,Nankeng,-2634507,PPL,populated place,GNS
 22.682274,121.047027,hamlet,美和,Meihe,-2634158,PPL,populated place,GNS
@@ -112,7 +105,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.054657,121.299339,hamlet,德高,Degao,10027398,PPL,populated place,GNS
 23.05172,121.29457,hamlet,順那,Shunna,-2636890,PPL,populated place,GNS
 23.058642,121.294904,hamlet,德高老,Degaolao,-2638691,PPL,populated place,GNS
-23.05,121.283333,hamlet,,Qilan,-2627920,PPL,populated place,GNS
 23.055028,121.280652,hamlet,排竹坑,Paizhukeng,10027414,PPL,populated place,GNS
 23.065301,121.278742,hamlet,松柏坑,Songbaikeng,10027408,PPL,populated place,GNS
 23.035526,121.294778,hamlet,蘭園,Lanyuan,10027412,PPL,populated place,GNS
@@ -147,8 +139,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.012596,121.281853,hamlet,淸溪,Qingxi,-2628012,PPL,populated place,GNS
 23.015231,121.282515,hamlet,咖啡園,Jiafeiyuan,-2627318,PPL,populated place,GNS
 23.032425,121.285808,hamlet,美蘭,Meilan,-2634168,PPL,populated place,GNS
-23.033333,121.283333,hamlet,,Qina,-2627971,PPL,populated place,GNS
-23.033333,121.283333,hamlet,,Aliliang,-2626867,PPL,populated place,GNS
 23.265913,120.962721,hamlet,埡口,Yakou,10127484,PPL,populated place,GNS
 22.87446,121.094641,hamlet,龍過脈,Longguomo,-2633753,PPL,populated place,GNS
 22.881348,121.124159,hamlet,嘉豐,Jiafeng,10039632,PPL,populated place,GNS
@@ -164,14 +154,12 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.8713,121.2238,hamlet,下都蘭,Xiadulan,10039634,PPL,populated place,GNS
 22.864632,121.210613,hamlet,加母子,Jiamuzi,10039638,PPL,populated place,GNS
 22.875969,121.209006,hamlet,五缐,Wuxian,-2634013,PPL,populated place,GNS
-22.65,121.016667,hamlet,,Zhongkeng,-2628829,PPL,populated place,GNS
 22.683056,121.000556,hamlet,鉛板厝,Qianbancuo,6433368,PPL,populated place,GNS
 22.763377,121.050347,hamlet,大南,Danan,-2638157,PPL,populated place,GNS
 22.7651,121.0404,hamlet,東興,Dongxing,-2638156,PPL,populated place,GNS
 23.195278,121.021111,hamlet,摩天,Motian,6433174,PPL,populated place,GNS
 23.22,121.0125,hamlet,栗園,Liyuan,6433170,PPL,populated place,GNS
 22.908673,121.112357,hamlet,五十戶,Wushihu,-2640510,PPL,populated place,GNS
-22.966667,121.133333,hamlet,,Taiyuanyuanye,-2637958,PPL,populated place,GNS
 22.967938,121.115843,hamlet,武陵,Wuling,-2640443,PPL,populated place,GNS
 22.979469,121.138857,hamlet,新豐,Xinfeng,-2637610,PPL,populated place,GNS
 22.981955,121.155464,hamlet,瑞和,Ruihe,-2632103,PPL,populated place,GNS
@@ -182,7 +170,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.8933,121.248,hamlet,興昌,Xingchang,-2631109,PPL,populated place,GNS
 22.915719,121.192462,hamlet,銅礦,Tongkuang,10039619,PPL,populated place,GNS
 22.695833,121.045,hamlet,荒野,Huangye,-2639652,PPL,populated place,GNS
-22.716667,121.05,hamlet,,Tianliao,-2638803,PPL,populated place,GNS
 22.719444,121.050556,hamlet,下建和,Xiajianhe,-2627652,PPL,populated place,GNS
 22.706389,121.040833,hamlet,橋子頭,Qiaozitou,6379231,PPL,populated place,GNS
 22.703333,121.026944,hamlet,建岡,Jiangang,6379241,PPL,populated place,GNS
@@ -199,7 +186,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.928644,121.115011,hamlet,永康,Yongkang,-2641018,PPL,populated place,GNS
 22.93355,121.212849,hamlet,鳥心石,Niaoxinshi,10039613,PPL,populated place,GNS
 22.94326,121.217318,hamlet,七塊厝,Qikuaicuo,-2627905,PPL,populated place,GNS
-22.95,121.2,hamlet,,Duomoluo,-2639162,PPL,populated place,GNS
 23.010288,121.269243,hamlet,牧場,Muchang,10027384,PPL,populated place,GNS
 23.018311,121.284146,hamlet,花固,Huagu,10027376,PPL,populated place,GNS
 23.022399,121.271116,hamlet,馬那漢,Manahan,10027382,PPL,populated place,GNS
@@ -213,7 +199,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.745556,121.058056,hamlet,上建和,Shangjianhe,6379240,PPL,populated place,GNS
 22.7862,121.1156,hamlet,南王,Nanwang,-2634669,PPL,populated place,GNS
 23.1375,121.086667,hamlet,嘉寶,Jiabao,6433183,PPL,populated place,GNS
-23.166667,121.1,hamlet,,Xiamagu,-2630454,PPL,populated place,GNS
 23.155278,121.064444,hamlet,下馬,Xiama,-2630452,PPL,populated place,GNS
 22.929929,121.137782,hamlet,永昌,Yongchang,10039616,PPL,populated place,GNS
 22.932,121.1287,hamlet,永安村,Yong'ancun,-2640966,PPL,populated place,GNS
@@ -231,7 +216,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.768846,121.128251,hamlet,灰窑子,Huiyaozi,-2633984,PPL,populated place,GNS
 22.781004,121.122772,hamlet,卑南,Beinan,-2635433,PPL,populated place,GNS
 23.168056,121.041667,hamlet,霧鹿,Wulu,-2640458,PPL,populated place,GNS
-23.183333,121.033333,hamlet,,Yibanuo,-2632011,PPL,populated place,GNS
 23.211389,121.031944,hamlet,吉木,Jimu,6433325,PPL,populated place,GNS
 23.187222,121.021667,hamlet,利稻,Lidao,-2633411,PPL,populated place,GNS
 22.834793,121.081835,hamlet,東成,Dongcheng,-2628379,PPL,populated place,GNS
@@ -264,7 +248,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.101667,121.176389,hamlet,海端,Haiduan,-2629887,PPL,populated place,GNS
 23.109167,121.1775,hamlet,日新,Rixin,6433272,PPL,populated place,GNS
 23.108333,121.173333,hamlet,隴下,Longxia,6433241,PPL,populated place,GNS
-23.1,121.166667,hamlet,,Xinwu,-2631414,PPL,populated place,GNS
 23.1175,121.167778,hamlet,初來,Chulai,-2628628,PPL,populated place,GNS
 22.812725,121.101079,hamlet,後湖,Houhu,-2630118,PPL,populated place,GNS
 22.802964,121.095766,hamlet,下檳榔,Xiabinlang,10039647,PPL,populated place,GNS
@@ -273,11 +256,7 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.008889,121.174722,hamlet,電光,Dianguang,-2638795,PPL,populated place,GNS
 23.01,121.151944,hamlet,盛豐,Shengfeng,6433257,PPL,populated place,GNS
 23.017778,121.176667,hamlet,東興,Dongxing,6433262,PPL,populated place,GNS
-23.033333,121.183333,hamlet,,Rishecun,-2632090,PPL,populated place,GNS
 23.036667,121.163889,hamlet,隆興,Longxing,6433265,PPL,populated place,GNS
-22.983333,121.3,hamlet,,Taiyuansuidao,-2637957,PPL,populated place,GNS
-22.666667,120.866667,hamlet,,Xinwei,-2631408,PPL,populated place,GNS
-22.716667,120.866667,hamlet,,Lajia,-2633051,PPL,populated place,GNS
 22.743889,121.136389,hamlet,豐榮,Fengrong,6379268,PPL,populated place,GNS
 23.008333,121.130556,hamlet,加樂,Jiale,-2627358,PPL,populated place,GNS
 23.013333,121.144167,hamlet,山顺,Shanshun,6433317,PPL,populated place,GNS
@@ -294,8 +273,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.770384,121.111639,hamlet,豐年,Fengnian,10039667,PPL,populated place,GNS
 22.774779,121.085228,hamlet,田寮,Tianliao,-2638804,PPL,populated place,GNS
 22.7748,121.0905,hamlet,豐田,Fengtian,-2640692,PPL,populated place,GNS
-22.783333,121.116667,hamlet,,Daqiao,-2637605,PPL,populated place,GNS
-22.783333,121.116667,hamlet,,Rongyuzhijia,-2632142,PPL,populated place,GNS
 22.52,120.879167,hamlet,近黃,Jinhuang,6433419,PPL,populated place,GNS
 22.7832,121.1608,hamlet,石川,Shichuan,-2630265,PPL,populated place,GNS
 22.281389,120.864722,hamlet,森永,Senyong,-2636296,PPL,populated place,GNS
@@ -323,7 +300,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.93098,121.186227,hamlet,上野,Shangye,10039614,PPL,populated place,GNS
 22.577778,120.873611,hamlet,介達村,Jiedacun,-2627600,PPL,populated place,GNS
 22.5925,120.824167,hamlet,比魯,Bilu,-2635650,PPL,populated place,GNS
-22.583333,120.8,hamlet,,Baosheng,-2635261,PPL,populated place,GNS
 23.334426,121.442073,hamlet,犁頭針,Litouzhen,10161757,PPL,populated place,GNS
 23.363608,121.449364,hamlet,熊崙,Xionglun,10161749,PPL,populated place,GNS
 23.367273,121.455131,hamlet,群崙,Qunlun,10161748,PPL,populated place,GNS
@@ -357,7 +333,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.381111,120.8575,hamlet,新化,Xinhua,-2631195,PPL,populated place,GNS
 23.306092,121.418247,hamlet,齒草坑,Chicaokeng,10161779,PPL,populated place,GNS
 23.296141,121.432702,hamlet,永福,Yongfu,-2640996,PPL,populated place,GNS
-23.3,121.433333,hamlet,,Saobiezi,-2636292,PPL,populated place,GNS
 23.292711,121.415574,hamlet,牛湖,Niuhu,-2630472,PPL,populated place,GNS
 23.273662,121.425961,hamlet,下崁,Xiakan,10161751,PPL,populated place,GNS
 23.283795,121.427907,hamlet,竹湖,Zhuhu,-2628579,PPL,populated place,GNS
@@ -400,14 +375,12 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.882026,121.142273,hamlet,和平,Heping,-2630035,PPL,populated place,GNS
 22.887639,121.16005,hamlet,榕山,Rongshan,-2631424,PPL,populated place,GNS
 22.892713,121.138256,hamlet,擺子擺,Baizibai,10039871,PPL,populated place,GNS
-22.9,121.166667,hamlet,,Zhongyeshe,-2629010,PPL,populated place,GNS
 22.486389,120.885278,hamlet,拖狗,Tuogou,-2639153,PPL,populated place,GNS
 22.473889,120.875278,hamlet,爵巴里,Juebali,6418656,PPL,populated place,GNS
 22.483889,120.877222,hamlet,臺坂溪頭,Taifanxitou,6418655,PPL,populated place,GNS
 22.462222,120.869444,hamlet,德巴吉,Debaji,6418658,PPL,populated place,GNS
 22.465833,120.863611,hamlet,凱西亞,Kaixiya,6418657,PPL,populated place,GNS
 22.488333,120.863889,hamlet,古達卡斯,Gudakasi,6418654,PPL,populated place,GNS
-22.5,120.866667,hamlet,,Toyage,-2639262,PPL,populated place,GNS
 22.465,120.853889,hamlet,張仁木,Zhangrenmu,6418723,PPL,populated place,GNS
 22.477222,120.839444,hamlet,大谷社,Dagushe,-2638013,PPL,populated place,GNS
 23.24591,121.363298,hamlet,大莊越,Dazhuangyue,10027330,PPL,populated place,GNS
@@ -421,7 +394,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.905759,121.184001,hamlet,松林,Songlin,10039623,PPL,populated place,GNS
 22.759912,121.144569,hamlet,臺東,Taidong,-2637928,PPLA,populated place,GNS
 22.761688,121.123369,hamlet,下康樂,Xiakangle,10039672,PPL,populated place,GNS
-22.45,120.9,hamlet,,Jiakuobucun,-2627349,PPL,populated place,GNS
 22.455833,120.8875,hamlet,新高社,Xingaoshe,-2631234,PPL,populated place,GNS
 22.453611,120.886944,hamlet,土坂,Tufan,-2636388,PPL,populated place,GNS
 22.446667,120.88,hamlet,巴巴拉崙,Babalalun,6418671,PPL,populated place,GNS
@@ -444,18 +416,15 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.806787,121.153644,hamlet,富源,Fuyuan,-2629820,PPL,populated place,GNS
 23.034722,121.188611,hamlet,嘉文,Jiawen,6433304,PPL,populated place,GNS
 23.0425,121.190833,hamlet,大水湖,Dashuihu,6433267,PPL,populated place,GNS
-23.05,121.2,hamlet,,Baimaoliao,-2635066,PPL,populated place,GNS
 23.050278,121.225833,hamlet,北坑,Beikeng,6433288,PPL,populated place,GNS
 23.06,121.229444,hamlet,石公厝,Shigongcuo,6433290,PPL,populated place,GNS
 23.066111,121.231667,hamlet,山棕寮,Shanzongliao,6433292,PPL,populated place,GNS
 22.457778,120.840833,hamlet,納涼,Naliang,-2634368,PPL,populated place,GNS
-22.416667,120.816667,hamlet,,Gulun,-2632842,PPL,populated place,GNS
 22.387222,120.896389,hamlet,達萬,Dawan,6418680,PPL,populated place,GNS
 22.401667,120.895833,hamlet,初屯,Chutun,-2629127,PPL,populated place,GNS
 22.521389,120.914167,hamlet,莫哥布各,Mogebuge,6433430,PPL,populated place,GNS
 22.525833,120.926667,hamlet,歷坵,Liqiu,-2633224,PPL,populated place,GNS
 22.530278,120.94,hamlet,溫泉,Wenquan,6433435,PPL,populated place,GNS
-22.533333,120.933333,hamlet,,Xiaojinlun,-2630533,PPL,populated place,GNS
 23.137686,121.362167,hamlet,興農,Xingnong,10027442,PPL,populated place,GNS
 23.14398,121.355827,hamlet,石棺,Shiguan,10027439,PPL,populated place,GNS
 23.127956,121.346141,hamlet,瀑布下,Pubuxia,10027437,PPL,populated place,GNS
@@ -481,7 +450,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.595,120.960556,hamlet,金峰,Jinfeng,6433463,PPL,populated place,GNS
 22.456667,120.922222,hamlet,工作地,Gongzuodi,6418664,PPL,populated place,GNS
 22.621389,121.001667,hamlet,沙崙,Shalun,6433378,PPL,populated place,GNS
-22.606667,120.995278,hamlet,,Jiebicun,-2627597,PPL,populated place,GNS
 22.614167,120.990278,hamlet,佳倫,Jialun,6433383,PPL,populated place,GNS
 23.095659,121.346319,hamlet,上麒麟,Shangqilin,-2636377,PPL,populated place,GNS
 23.081944,121.236389,hamlet,保甲園,Baojiayuan,6433293,PPL,populated place,GNS
@@ -500,12 +468,9 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.825946,121.132985,hamlet,利吉,Liji,-2633221,PPL,populated place,GNS
 22.777773,121.174434,hamlet,海堡,Haibao,10039661,PPL,populated place,GNS
 22.793018,121.187346,hamlet,富岡,Fugang,79840,PPL,populated place,GNS
-22.8,121.183333,hamlet,,Shishan,-2636960,PPL,populated place,GNS
-22.8,121.183333,hamlet,,Yushanxincun,-2641061,PPL,populated place,GNS
 22.8109,121.1877,hamlet,加路蘭,Jialulan,-2627387,PPL,populated place,GNS
 22.5975,120.9725,hamlet,橋頭,Qiaotou,6433458,PPL,populated place,GNS
 22.601111,120.835833,hamlet,斗里斗里社,Doulidoulishe,-2639220,PPL,populated place,GNS
-22.6,120.833333,hamlet,,Songwuluo,-2637556,PPL,populated place,GNS
 22.640556,121.014444,hamlet,新吉,Xinji,-2637863,PPL,populated place,GNS
 22.629722,121.0075,hamlet,北太麻里,Beitaimali,-2635503,PPL,populated place,GNS
 22.634444,121.000833,hamlet,新興,Xinxing,6433376,PPL,populated place,GNS
@@ -513,11 +478,8 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.651667,120.993611,hamlet,薑母寮,Jiangmuliao,6433371,PPL,populated place,GNS
 22.6625,120.993333,hamlet,森川,Senchuan,6433370,PPL,populated place,GNS
 22.418611,120.861389,hamlet,埔里雅社,Puliyashe,-2635972,PPL,populated place,GNS
-22.401171,120.757432,hamlet,,Qinshuiying,-2628209,PPL,populated place,GNS
 22.373952,120.90252,hamlet,汀掛,Dinggua,6418682,PPL,populated place,GNS
-22,121.566667,hamlet,,Fuxingnongzhuang,-2629722,PPL,populated place,GNS
 22.023333,121.559444,hamlet,中興農莊,Zhongxingnongzhuang,-2628790,PPL,populated place,GNS
-22.066667,121.5,hamlet,,Dingxingnongzhuang,-2638991,PPL,populated place,GNS
 22.050833,121.512778,hamlet,椰油,Yeyou,-2640669,PPL,populated place,GNS
 22.037222,121.5675,hamlet,野銀,Yeyin,-2640668,PPL,populated place,GNS
 22.0275,121.542778,hamlet,漁人,Yuren,-2640930,PPL,populated place,GNS
@@ -525,7 +487,5 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 22.057778,121.564444,hamlet,東清,Dongqing,-2639562,PPL,populated place,GNS
 22.010833,121.5725,hamlet,四道溝,Sidaogou,-2637470,PPL,populated place,GNS
 22.025556,121.554444,hamlet,紅頭,Hongtou,-2633109,PPL,populated place,GNS
-22.083333,121.616667,hamlet,,Langdaoxi,-2633082,PPL,populated place,GNS
 22.078333,121.528889,hamlet,朗島,Langdao,-2633081,PPL,populated place,GNS
-22.016667,121.583333,hamlet,,Longmen,-2633758,PPL,populated place,GNS
 22.057222,121.51,hamlet,開元港,Kaiyuangang,-2632152,PPL,populated place,GNS

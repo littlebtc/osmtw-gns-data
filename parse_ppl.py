@@ -41,7 +41,8 @@ with open('original/tw_populatedplaces_p.txt', 'r') as ppl_input:
             writer = unicodecsv.DictWriter(output, fieldnames = fieldnames)
             writer.writeheader()
             for entry in result.itervalues():
-                writer.writerow(entry)
+                if entry["name"]:
+                    writer.writerow(entry)
                 count = count + 1
         with open('ppl/nonzh-adm-%s.csv'%adm, "w") as output:
             writer = unicodecsv.DictWriter(output, fieldnames = fieldnames)

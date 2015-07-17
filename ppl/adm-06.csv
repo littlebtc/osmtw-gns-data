@@ -9,7 +9,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.453889,120.445278,hamlet,圓頂,Yuanding,6405976,PPL,populated place,GNS
 23.455556,120.439167,hamlet,湖子内,Huzinei,-2631800,PPL,populated place,GNS
 23.522289,120.396732,hamlet,港尾,Gangwei,-2632276,PPL,populated place,GNS
-23.5,120.4,hamlet,,Taibaozhuang,-2637877,PPL,populated place,GNS
 23.504153,120.395161,hamlet,新廍,Xinpou,-2631167,PPL,populated place,GNS
 23.506226,120.403295,hamlet,溪底寮,Xidiliao,10033981,PPL,populated place,GNS
 23.5175,120.4027,hamlet,過港,Guogang,10033978,PPL,populated place,GNS
@@ -23,7 +22,6 @@ lat,lon,place,name,name:en,GNS:id,GNS:dsg_code,GNS:dsg_string,source
 23.4975,120.431944,hamlet,海口寮子,Haikouliaozi,6405423,PPL,populated place,GNS
 23.506271,120.43195,hamlet,許厝莊仔,Xucuozhuangzi,-2631669,PPL,populated place,GNS
 23.494167,120.422778,hamlet,北社尾,Beishewei,-2635462,PPL,populated place,GNS
-23.483333,120.416667,hamlet,,Sanmin,-2636211,PPL,populated place,GNS
 23.492778,120.413611,hamlet,頂埤,Dingpi,6405420,PPL,populated place,GNS
 23.481389,120.4075,hamlet,大溪厝,Daxicuo,-2637772,PPL,populated place,GNS
 23.492796,120.40936,hamlet,下埤,Xiapi,-2630668,PPL,populated place,GNS
